@@ -1,0 +1,31 @@
+_repo: Wide-Courses_13836
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Connolly, James B. (James Brendan)
+    alias: Connolly, James Brendan
+    birthdate: 1868
+    deathdate: 1957
+    gutenberg_agent_id: '5241'
+    url: http://www.gutenberg.org/2009/agents/5241
+    wikipedia: http://en.wikipedia.org/wiki/James_Connolly_(athlete)
+description: Cover -- Contents.
+gutenberg_issued: '2004-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Sea stories'
+tableOfContents: The wrecker -- Laying the hose-pipe ghost -- The seizure of the "Aurora
+  Borealis" -- Light-ship 67 -- Captain Blaise -- Don Quixote Kieran, pump-man --
+  Jan Tingloff -- Cogan capeador.
+title: Wide Courses
+url: http://www.gutenberg.org/ebooks/13836
